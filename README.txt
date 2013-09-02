@@ -6,6 +6,9 @@ Contact address: lin-bao-wei@hotmail.com
 
 
 
+*IMPORTANT
+	3D keypoints are important for change detection. Please download the project of 3D keypoints from https://github.com/linbaowei/3DkeypointsGeneration firstly.
+
 
 
 * What can you get
